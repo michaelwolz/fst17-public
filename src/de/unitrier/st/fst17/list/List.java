@@ -1,5 +1,7 @@
 package de.unitrier.st.fst17.list;
 
+// michaelwolz
+
 /**
  * Doppelt verkettete Liste.
  */
